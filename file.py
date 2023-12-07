@@ -12,6 +12,6 @@ done = False
 env.reset()
 
 while not done:
-    action = RIGHT_ONLY.index(['right'])
+    action = env.action_space.sample()
     _, _, done, _, _ = env.step(action)
     env.render()
