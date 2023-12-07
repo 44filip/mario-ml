@@ -1,6 +1,6 @@
 # Double Deep Q Network Reinforcement Learning - Super Mario Bros (Gym)
 
-## Installation
+## Installation (Tested on Linux Mint - Cinnamon 5.8.4)
 
 **Start by cloning this repository**
 ```bash
