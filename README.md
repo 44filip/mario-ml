@@ -4,7 +4,7 @@
 
 **Start by cloning this repository**
 ```bash
-git clone https://github.com/S-Filip/ml-mario.git
+git clone https://github.com/S-Filip/mario-ml.git
 ```
 
 **Install virtualenv if not already installed**
@@ -14,12 +14,12 @@ pip install virtualenv
 
 **Create a virtual environment**
 ```bash
-virtualenv --python=python3 ~/venv/ml-mario
+virtualenv --python=python3 ~/venv/mario-ml
 ```
 
 **Activate the virtual environment**
 ```bash
-source ~/venv/ml-mario/bin/activate
+source ~/venv/mario-ml/bin/activate
 ```
 
 **Install PyTorch v2.0.1**
