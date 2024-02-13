@@ -4,7 +4,7 @@
 
 **Start by cloning this repository**
 ```bash
-git clone https://github.com/S-Filip/mario-ml.git
+git clone https://github.com/44filip/mario-ml.git
 ```
 
 **Install virtualenv if not already installed**
