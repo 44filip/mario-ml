@@ -34,6 +34,6 @@ pip install -r requirements.txt
 ## Success
 Reference: [https://github.com/Sourish07]
 \
-![success](https://github.com/S-Filip/ml-mario/assets/100999946/235cf0a3-ab4f-40a7-a027-baca3fe1c885)
+![mario](https://github.com/44filip/mario-ml/assets/100999946/8946253f-8833-49ca-bb8e-a9546096e74d)
 
 @44filip 👋
